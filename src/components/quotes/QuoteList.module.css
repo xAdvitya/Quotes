@@ -1,7 +1,7 @@
 .list {
   list-style: none;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 0px;
+  margin-right: 0px;
   padding: 0;
 }
 
@@ -13,8 +13,6 @@
 }
 
 .sorting button {
-  margin-top: 10px;
-  margin-left: 10px;
   font: inherit;
   color: teal;
   border: 1px solid teal;
