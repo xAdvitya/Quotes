@@ -1,4 +1,4 @@
-import { Fragment, useEffect } from 'react';
+import { useEffect } from 'react';
 import { useParams, Route, Link, useRouteMatch } from 'react-router-dom';
 
 import HighlightedQuote from '../components/quotes/HighlightedQuote';
